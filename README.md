@@ -5,8 +5,8 @@
 <p align=center>
 প্রদোষচন্দ্র মিত্র ওরফে ফেলুদা, সত্যজিৎ রায় সৃষ্ট বাংলা সাহিত্যের একটি জনপ্রিয় কাল্পনিক গোয়েন্দা চরিত্র। ১৯৬৫ সালের ডিসেম্বর মাসের সন্দেশ পত্রিকায় ফেলুদা সিরিজের প্রথম গল্প “ফেলুদার গোয়েন্দাগিরি” প্রকাশিত হয়। ১৯৬৫ থেকে ১৯৯৭ পর্যন্ত এই সিরিজের মোট ৩৫টি সম্পূর্ণ ও চারটি অসম্পূর্ণ গল্প ও উপন্যাস প্রকাশিত হয়েছে। ফেলুদার প্রধান সহকারী তাঁর খুড়তুতো ভাই তপেশরঞ্জন মিত্র ওরফে তোপসে ও লেখক লালমোহন গাঙ্গুলি (ছদ্মনাম জটায়ু)। সত্যজিৎ রায় ফেলুদার সোনার কেল্লা ও জয় বাবা ফেলুনাথ উপন্যাসদুটিকে চলচ্চিত্রায়িত করেন। এই দুই ছবিতে কিংবদন্তি চলচ্চিত্র অভিনেতা সৌমিত্র চট্টোপাধ্যায় ফেলুদার ভূমিকায় অভিনয় করেছিলেন। বর্তমানে সত্যজিতের পুত্র সন্দীপ রায় ফেলুদার গল্প ও উপন্যাস নিয়ে টেলিভিশন ধারাবাহিক ও চলচ্চিত্র নির্মাণ করেন।</p>
 <hr>
-<img  align=center alt="Repo Size" src="https://img.shields.io/github/repo-size/deep5050/FeluMittir?style=for-the-badge"></img>
-
+<p align=center ><img  align=center alt="Repo Size" src="https://img.shields.io/github/repo-size/deep5050/FeluMittir?style=for-the-badge" /></p>
+<p align=center ><img align=center src="https://badges.pufler.dev/visits/deep5050/FeluMittir?logo=GitHub&label=github%20visits&color=blue&logoColor=white&style=for-the-badge" alt="viators" /></p>
 <hr>
 </div>
 
